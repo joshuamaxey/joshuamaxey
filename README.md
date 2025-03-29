@@ -16,8 +16,9 @@ Passionate about building robust and scalable web applications. I love solving p
 - Enhance applications with modern deployment tools like **Render**
 
 ## Featured Projects  
-- 🛠️ **[Keyhole](https://github.com/joshuamaxey/Keyhole):** Full-stack web application built with Flask, React.js, and Redux.js.  
-- 📄 **[Portfolio Site](https://joshuamaxey.github.io/):** Explore my work and skills in action.
+- **[Keyhole](https://github.com/joshuamaxey/Keyhole):** Full-stack blogging / social networking application built with Flask, React.js, and Redux.js.  
+- **[Cash With Friends](https://github.com/Alizon121/Cash-with-Friends-App):** Replica of the Splitwise applicaiton built wiith Python, Flask, and React with a PostgreSQL database.
+- **[Bed and Breakfast](https://github.com/joshuamaxey/bedAndBreakfast):** Cat-themed replica of the Airbnb application built using Express.js, React, and Redux.
 
 ## Connect With Me  
 - 🌐 [Portfolio Site](https://joshuamaxey.github.io/)  
