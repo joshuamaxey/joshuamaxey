@@ -21,5 +21,5 @@ Passionate about building robust and scalable web applications. I love solving p
 
 ## Connect With Me  
 - 🌐 [Portfolio Site](https://joshuamaxey.github.io/)  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/joshuamaxey/](https://www.linkedin.com/in/joshua-maxey-389570357/))  
-- 📄 [Resume]([https://example.com/joshua-maxey-resume.pdf](https://docs.google.com/document/d/1UngyZ8nhW9c0x2RbuIViLeQOn2o1EvS5us31k5iZZAg/edit?usp=sharing))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joshua-maxey-389570357/)  
+- 📄 [Resume](https://docs.google.com/document/d/1UngyZ8nhW9c0x2RbuIViLeQOn2o1EvS5us31k5iZZAg/edit?usp=sharing)  
