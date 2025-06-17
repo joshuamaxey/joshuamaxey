@@ -10,10 +10,10 @@ I began my journey as a builder in construction, and eventually I found my way t
 - 🤝 Passionate about helping others bring their creative visions to life through software development.
 
 ## Things I Can Do  
-- Build robust backend architectures with **Node.js**, **Express**, and **TypeScript**  
-- Design and optimize databases using **SQL**, **PostgreSQL**, and **Firebase**  
-- Develop dynamic frontends with **React.js** and **Redux.js**  
-- Enhance applications with modern deployment tools like **Render**
+- Build robust backend architectures with **Node.js** + **Express**, **Next.js**, or **Flask** in **JavaScript**, **TypeScript**, or **Python**  
+- Design and optimize databases using **SQL** (**SQLite** or **PostgreSQL**), and **Firebase** + **Firestore**  
+- Develop dynamic frontends with **React.js** for frontend architecture and **Redux.js** for maintaining a normalized global state  
+- Test and deploy applications with modern tools like **PostMan** and **Render**
 
 ## Featured Projects  
 - **[Keyhole](https://github.com/joshuamaxey/Keyhole):** Full-stack blogging / social networking application built with Flask, React.js, and Redux.js.  
