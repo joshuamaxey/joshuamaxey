@@ -4,10 +4,11 @@
 I began my journey as a builder in construction, and eventually I found my way to welding. Then I fell in love with coding while trying to build myself a website to advertise my fabrication services, and that's how I became a software engineer! Throughout my career and education I've developed a strong work ethic, learned the importance of paying attention to the details, and have learned to love iterative problem solving. 
 
 ## About Me  
-- 🌟 Transitioned from welding and fabrication to tech, applying precision and problem-solving skills to software engineering.  
-- 🔧 Proficient in **JavaScript**, **Python**, **TypeScript**, **SQL**, **React.js**, **Next.js**, **Firebase**, and more.  
-- 📖 Currently learning and implementing modern web development tools like **Render** and **Next.js**.  
-- 🤝 Passionate about helping others bring their creative visions to life through software development.
+- 🌟 Transitioned from welding and fabrication to tech, applying a strong work ethic, precision and attention to detail, and problem-solving skills to software engineering.  
+- 🔧 Proficient in **JavaScript**, **TypeScript**, **Python**, **SQL**, **React.js**, **Next.js**, **Firebase**, and more.  
+- 📖 Familiar with utilizing modern web development tools like **Render** and **PostMan**.
+- 🧑‍💻 Experienced will the entire full-stack development lifecycle-- Beginning with **system design** and **documentation** all the way through **testing** and **production deployment**.
+- 🤝 Passionate about building things that matter and helping others bring their creative visions to life through software development!
 
 ## Things I Can Do  
 - Build robust backend architectures with **Node.js** + **Express**, **Next.js**, or **Flask** in **JavaScript**, **TypeScript**, or **Python**  
