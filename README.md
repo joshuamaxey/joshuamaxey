@@ -1,7 +1,7 @@
 # Hello, I'm Joshua Maxey!  
-### Professional Builder: Software Engineer ( Backend / Full-Stack ) + Welder / Fabricator
+### Professional Builder: Software Engineer | Backend Architect | Full-Stack Developer | Welder / Fabricator
 
-I began my journey as a builder in construction, and eventually I found my way to welding. Then I fell in love with coding while trying to build myself a website to advertise my fabrication services, and that's how I became a software engineer! Throughout my career and education I've developed a strong work ethic, learned the importance of paying attention to the details, and have learned to love iterative problem solving. 
+I am a Professional builder and versatile software engineer specialized in constructing backend architecture with a strong focus on developing full-stack applications.
 
 ## About Me  
 - 🔧 Proficient in **JavaScript**, **TypeScript**, **Python**, and **SQL**, as well as relevant frameworks such as **Node**, **Next**, **Flask**, **FastAPI**, and **Playwright**
