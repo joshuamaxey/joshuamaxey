@@ -4,17 +4,17 @@
 I began my journey as a builder in construction, and eventually I found my way to welding. Then I fell in love with coding while trying to build myself a website to advertise my fabrication services, and that's how I became a software engineer! Throughout my career and education I've developed a strong work ethic, learned the importance of paying attention to the details, and have learned to love iterative problem solving. 
 
 ## About Me  
-- 🌟 Transitioned from welding and fabrication to tech, applying a strong work ethic, precision and attention to detail, and problem-solving skills to software engineering.  
-- 🔧 Proficient in **JavaScript**, **TypeScript**, **Python**, **SQL**, **React.js**, **Next.js**, **Firebase**, and more.  
-- 📖 Familiar with utilizing modern web development tools like **Render** and **PostMan**.
+- 🔧 Proficient in **JavaScript**, **TypeScript**, **Python**, and **SQL**, as well as relevant frameworks such as **Node**, **Next**, **Flask**, **FastAPI**, and **Playwright**
+- 📖 Familiar with utilizing modern web development tools like **Render**, **PostMan**, and **Firestore**.
 - 🧑‍💻 Experienced will the entire full-stack development lifecycle-- Beginning with **system design** and **documentation** all the way through **testing** and **production deployment**.
 - 🤝 Passionate about building things that matter and helping others bring their creative visions to life through software development!
+- 🌟 Transitioned from welding and fabrication to tech, applying a strong work ethic, precision and attention to detail, and problem-solving skills to software engineering.  
 
 ## Things I Can Do  
-- Build robust backend architectures with **Node.js** + **Express**, **Next.js**, or **Flask** in **JavaScript**, **TypeScript**, or **Python**  
-- Design and optimize databases using **SQL** (**SQLite** or **PostgreSQL**), and **Firebase** + **Firestore**  
-- Develop dynamic frontends with **React.js** for frontend architecture and **Redux.js** for maintaining a normalized global state  
-- Test and deploy applications with modern tools like **PostMan** and **Render**
+- Build robust backend architectures with **Node.js** + **Express**, **Next.js**, **Flask**, or **FastAPI** in **JavaScript**, **TypeScript**, or **Python**  
+- Design and optimize databases using **SQL** (**SQLite** or **PostgreSQL**), **MongoDB**, **Firestore**, and **Prisma**  
+- Develop dynamic frontends with **HTML**, **CSS**, and **React.js** for frontend architecture with **Redux.js** for maintaining a normalized global state  
+- Test and deploy applications with modern tools like **PostMan**, **Render**, and **Firebase**
 
 ## Professional Experience
 ### LVC Solutions
