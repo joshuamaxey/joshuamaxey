@@ -16,7 +16,12 @@ I began my journey as a builder in construction, and eventually I found my way t
 - Develop dynamic frontends with **React.js** for frontend architecture and **Redux.js** for maintaining a normalized global state  
 - Test and deploy applications with modern tools like **PostMan** and **Render**
 
-## Featured Projects  
+## Professional Experience
+### LVC Solutions
+LVC Solutions is a small company that provides AI-Powered IT Solutions to businesses. They leverage advanced technology, automation and intelligent design in pursuit of a smarter digital future. I am a Backend Engineer on LVC Solutions' software engineering team.
+- **[Fair Job](https://www.lvcfairjob.com/)** is a job portal application that uses facial recognition in conjunction with advanced AI to connect job seekers with opportunities, recruiters with candidates, and to prevent the fraud (fake accounts, fake postings) that we see running rampant in many other job portals. This application is built on the idea that talent, not bias, should be the determining factor in hiring. Our tech stack for the backend of this application includes TypeScript, Next.js, Firebase + Firestore, and AWS (for facial recognition). Click the image on the left to visit our website!
+
+## Technical Projects  
 - **[Keyhole](https://github.com/joshuamaxey/Keyhole):** Full-stack blogging / social networking application built with Flask, React.js, and Redux.js.  
 - **[Cash With Friends](https://github.com/Alizon121/Cash-with-Friends-App):** Replica of the Splitwise applicaiton built wiith Python, Flask, and React with a PostgreSQL database.
 - **[Fur Seasons](https://github.com/joshuamaxey/FurSeasons):** Cat-themed replica of the Airbnb application built using Express.js, React, and Redux.
