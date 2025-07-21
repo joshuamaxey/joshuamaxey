@@ -22,7 +22,7 @@ LVC Solutions is a small company that provides AI-Powered IT Solutions to busine
 - **[Fair Job](https://www.lvcfairjob.com/)** is a job portal application that uses facial recognition in conjunction with advanced AI to connect job seekers with opportunities, recruiters with candidates, and to prevent the fraud (fake accounts, fake postings) that we see running rampant in many other job portals. This application is built on the idea that talent, not bias, should be the determining factor in hiring. Our tech stack for the backend of this application includes TypeScript, Next.js, Firebase + Firestore, and AWS (for facial recognition). Click the image on the left to visit our website!
 
 ## Technical Projects  
-- **[Keyhole](https://github.com/joshuamaxey/Keyhole):** Full-stack blogging / social networking application built with Flask, React.js, and Redux.js.  
+- **[Keyhole](https://github.com/joshuamaxey/Keyhole):** Minimal blogging interface built with Flask, React.js, and Redux.js.  
 - **[Cash With Friends](https://github.com/Alizon121/Cash-with-Friends-App):** Replica of the Splitwise applicaiton built wiith Python, Flask, and React with a PostgreSQL database.
 - **[Fur Seasons](https://github.com/joshuamaxey/FurSeasons):** Cat-themed replica of the Airbnb application built using Express.js, React, and Redux.
 
