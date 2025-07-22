@@ -18,7 +18,7 @@ I am a Professional builder and versatile software engineer specialized in const
 
 ## Professional Experience
 ### LVC Solutions
-LVC Solutions is a small company that provides AI-Powered IT Solutions to businesses. They leverage advanced technology, automation and intelligent design in pursuit of a smarter digital future. I am a Backend Engineer on LVC Solutions' software engineering team.
+LVC Solutions is a small company that provides AI-Powered IT Solutions to businesses. They leverage advanced technology, automation and intelligent design in pursuit of a smarter digital future. I am a Backend Engineer Intern on LVC Solutions' software engineering team.
 - **[Fair Job](https://www.lvcfairjob.com/)** is a job portal application that uses facial recognition in conjunction with advanced AI to connect job seekers with opportunities, recruiters with candidates, and to prevent the fraud (fake accounts, fake postings) that we see running rampant in many other job portals. This application is built on the idea that talent, not bias, should be the determining factor in hiring. Our tech stack for the backend of this application includes TypeScript, Next.js, Firebase + Firestore, and AWS (for facial recognition). Click the image on the left to visit our website!
 
 ## Technical Projects  
