@@ -50,4 +50,4 @@ I'm a software engineer based in Tyler, Texas. I turn product ideas into working
 
 * [Portfolio](https://joshuamaxey.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/joshua-maxey-389570357/)
-* [Resume (v.4)](https://docs.google.com/document/d/1UngyZ8nhW9c0x2RbuIViLeQOn2o1EvS5us31k5iZZAg/edit?tab=t.ck4dmaw3tzsp)
+* [Resume)](https://docs.google.com/document/d/1UngyZ8nhW9c0x2RbuIViLeQOn2o1EvS5us31k5iZZAg/edit?tab=t.ck4dmaw3tzsp)
